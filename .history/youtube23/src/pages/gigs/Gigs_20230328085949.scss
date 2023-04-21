@@ -1,0 +1,32 @@
+.gigs {
+    display: flex;
+    justify-content: center;
+    .container{
+        width: 1400px;
+        padding: 30px 0px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+
+        .breadcrumbs{
+            font-weight: 300;
+            font-size: #555;
+        }
+
+        p{
+            color: #999;
+            font-weight: 300;
+        }
+
+        .menu{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            .left{
+                display: flex;align-items: center;
+                
+            }
+        }
+    }
+}

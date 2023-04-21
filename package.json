@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fiber-ui": "^1.0.24",
+    "infinite-react-carousel": "^1.2.11",
+    "sass": "^1.59.3"
+  }
+}

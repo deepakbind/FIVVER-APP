@@ -1,0 +1,16 @@
+.slide{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px; 
+    .container{
+        width: 1400px;
+
+        .carousel-prev,.carousel-next{
+            width: 50px;
+            height: 50px;
+            background-color: rgb(66, 62, 62);
+            border-radius: 50%;
+            
+        }
+    }
+}

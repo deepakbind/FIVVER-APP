@@ -1,0 +1,18 @@
+.featured{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    background-color: #013914;
+    color: white;
+
+  .container{
+  width: 1400px;
+  display: flex;
+  align-items: center;
+  img{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+  }
+  }
+}

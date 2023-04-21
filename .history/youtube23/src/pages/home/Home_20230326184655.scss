@@ -1,0 +1,32 @@
+.home{
+    .features{
+        background-color: #f1fdf7;
+        display: flex;
+        justify-content: center;
+        padding: 100px 0px;
+
+        .container{
+          width: 1400px;
+          display: flex;
+          align-items: center;
+          gap: 15px;
+
+            .item{
+                &:first-child {
+                    font: 2;
+                }
+
+                &:last-child {
+                    flex
+                }
+                h1{}
+                p{}
+                .title{}
+                video{
+                    width: 720px;
+                    
+                }
+            }
+        }
+    }
+}
